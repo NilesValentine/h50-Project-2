@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": -80.181,
+    "lat": 26.0968
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 300.47,
+    "feels_like": 302.86,
+    "temp_min": 297.6,
+    "temp_max": 302.6,
+    "pressure": 1017,
+    "humidity": 73
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1.54,
+    "deg": 0
+  },
+  "clouds": {
+    "all": 90
+  },
+  "dt": 1636040620,
+  "sys": {
+    "type": 1,
+    "id": 4110,
+    "country": "US",
+    "sunrise": 1636025498,
+    "sunset": 1636065415
+  },
+  "timezone": -14400,
+  "id": 0,
+  "name": "Fort Lauderdale",
+  "cod": 200
+}

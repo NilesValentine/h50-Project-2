@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": -71.4443,
+    "lat": 41.8206
+  },
+  "weather": [
+    {
+      "id": 802,
+      "main": "Clouds",
+      "description": "scattered clouds",
+      "icon": "03d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 276.94,
+    "feels_like": 276.94,
+    "temp_min": 274.62,
+    "temp_max": 279.44,
+    "pressure": 1025,
+    "humidity": 81
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 0.45,
+    "deg": 128,
+    "gust": 1.34
+  },
+  "clouds": {
+    "all": 40
+  },
+  "dt": 1636032704,
+  "sys": {
+    "type": 2,
+    "id": 2007908,
+    "country": "US",
+    "sunrise": 1636024920,
+    "sunset": 1636061799
+  },
+  "timezone": -14400,
+  "id": 0,
+  "name": "Providence",
+  "cod": 200
+}

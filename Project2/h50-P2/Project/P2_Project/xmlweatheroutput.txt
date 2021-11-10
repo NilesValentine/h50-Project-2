@@ -1,0 +1,22 @@
+<current>
+  <city id="0" name="Providence">
+    <coord lon="-71.4443" lat="41.8206"></coord>
+    <country>US</country>
+    <timezone>-14400</timezone>
+    <sun rise="2021-11-04T11:22:00" set="2021-11-04T21:36:39"></sun>
+  </city>
+  <temperature value="277.64" min="276.13" max="279.52" unit="kelvin"></temperature>
+  <feels_like value="277.64" unit="kelvin"></feels_like>
+  <humidity value="78" unit="%"></humidity>
+  <pressure value="1025" unit="hPa"></pressure>
+  <wind>
+    <speed value="0.45" unit="m/s" name="Calm"></speed>
+    <gusts value="0.89"></gusts>
+    <direction value="13" code="NNE" name="North-northeast"></direction>
+  </wind>
+  <clouds value="40" name="scattered clouds"></clouds>
+  <visibility value="10000"></visibility>
+  <precipitation mode="no"></precipitation>
+  <weather number="802" value="scattered clouds" icon="03d"></weather>
+  <lastupdate value="2021-11-04T13:44:37"></lastupdate>
+</current>

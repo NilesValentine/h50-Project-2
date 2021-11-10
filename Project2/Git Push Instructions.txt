@@ -1,0 +1,5 @@
+git checkout -b [branchname]
+git add .
+git commit
+git push origin [branchname]
+git status
